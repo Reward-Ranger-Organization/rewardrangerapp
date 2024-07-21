@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221005378824",
+    "project_id": "reward-ranger",
+    "storage_bucket": "reward-ranger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221005378824:android:10b1680758cb6729ede8bd",
+        "android_client_info": {
+          "package_name": "com.example.rewardrangerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAptUG_KJ6zNxZbkS2XYelBZa2YU8_j3KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
